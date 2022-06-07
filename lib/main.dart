@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false, //Removing the DEMO tag
-      title: 'Flutter Demo',
+      title: 'Aimed Labs Assignment',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
